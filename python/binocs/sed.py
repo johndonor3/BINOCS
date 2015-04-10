@@ -202,3 +202,4 @@ def summarize(results, binary, singles):
 		
 	return summary	
 	
+	
